@@ -1,4 +1,4 @@
-# MangaNaya Docs
+# [MangaNaya](https://manganaya.com) Docs
 
 MangaNaya is a personal manga reading platform designed to provide a streamlined, ad-free, and customizable manga experience.
 
